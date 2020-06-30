@@ -1,4 +1,4 @@
-print"answer"
+print("answer")
 
 
 number = 42
